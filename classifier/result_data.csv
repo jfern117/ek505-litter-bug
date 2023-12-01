@@ -1,0 +1,68 @@
+File_Name,GT_contains_trash,GT_trash_category,GT_env_is_dirt,GT_env_is_pavement,GT_env_is_grass,model_detects_trash,model_top_detection_class,model_top_detection_confidence
+bottle_dirt1.jpg,True,bottle,True,False,False,True,Normal paper,0.42586344480514526
+bottle_dirt3.jpg,True,bottle,True,False,False,True,Plastic bottle cap,0.5006722211837769
+bottle_grass1.jpg,True,bottle,False,False,True,True,Drink can,0.9339370727539062
+bottle_grass2.jpg,True,bottle,False,False,True,True,Clear plastic bottle,0.7525561451911926
+bottle_grass_pavement1.jpg,True,bottle,False,True,True,True,Plastic film,0.5350260138511658
+bottle_pavement1.jpg,True,bottle,False,True,False,True,Other carton,0.4288564920425415
+bottle_pavement2.jpg,True,bottle,False,True,False,True,Clear plastic bottle,0.9052062630653381
+bottle_pavement3.jpg,True,bottle,False,True,False,False,,
+bottle_pavement4.jpg,True,bottle,False,True,False,False,,
+can_dirt1.jpg,True,can,True,False,False,True,Drink can,0.9410256147384644
+can_dirt2.jpg,True,can,True,False,False,True,Drink can,0.7763112187385559
+can_grass1.jpg,True,can,False,False,True,True,Clear plastic bottle,0.7511655688285828
+can_grass2.jpg,True,can,False,False,True,True,Drink can,0.9363348484039307
+can_grass3.jpg,True,can,False,False,True,True,Drink can,0.961654543876648
+can_grass_pavement1.jpg,True,can,False,True,True,True,Plastic film,0.606441080570221
+can_pavement1.jpg,True,can,False,True,False,True,Drink can,0.9130786657333374
+can_pavement2.jpg,True,can,False,True,False,True,Drink can,0.7911878824234009
+can_pavement_grass1.jpg,True,can,False,True,True,True,Other carton,0.3322279155254364
+can_pavement_grass2.jpg,True,can,False,True,True,True,Drink can,0.8874253034591675
+can_pavement_grass3.jpg,True,can,False,True,True,True,Plastic straw,0.6808128952980042
+cardboard_grass1.jpg,True,cardboard,False,False,True,True,Styrofoam piece,0.44953668117523193
+cardboard_grass2.jpg,True,cardboard,False,False,True,True,Polypropylene bag,0.4724896252155304
+cardboard_grass_pavement1.jpg,True,cardboard,False,True,True,True,Polypropylene bag,0.3591635525226593
+cardboard_grass_pavement2.jpg,True,cardboard,False,True,True,True,Disposable plastic cup,0.8072795271873474
+cardboard_pavement1.jpg,True,cardboard,False,True,False,True,Other plastic,0.44388386607170105
+cardboard_pavement2.jpg,True,cardboard,False,True,False,True,Corrugated carton,0.9160833358764648
+dirt1.jpg,False,,True,False,False,True,Other plastic,0.8091223239898682
+dirt3.jpg,False,,True,False,False,False,,
+dirt4.jpg,False,,True,False,False,True,Disposable food container,0.4276564121246338
+dirt5.jpg,False,,True,False,False,True,Unlabeled litter,0.2704179883003235
+dirt6.jpg,False,,True,False,False,False,,
+dirt_grass1.jpg,False,,True,False,True,True,Scrap metal,0.2898541986942291
+dirt_grass2.jpg,False,,True,False,True,True,Other plastic,0.32094213366508484
+dirt_pavement.jpg,False,,True,True,False,False,,
+dirt_pavement1.jpg,False,,True,True,False,True,Unlabeled litter,0.5351560115814209
+grass1.jpg,False,,False,False,True,True,Plastic bottle cap,0.6420276761054993
+grass2.jpg,False,,False,False,True,True,Disposable plastic cup,0.7010653614997864
+grass3.jpg,False,,False,False,True,True,Other plastic,0.3081924021244049
+paper_dirt_grass1.jpg,True,paper,True,False,True,True,Other plastic wrapper,0.7870473265647888
+paper_dirt_pavement1.jpg,True,paper,True,True,False,True,Glass bottle,0.4687238931655884
+paper_grass1.jpg,True,paper,False,False,True,True,Plastic utensils,0.7774113416671753
+paper_grass2.jpg,True,paper,False,False,True,True,Styrofoam piece,0.5868000984191895
+paper_grass3.jpg,True,paper,False,False,True,True,Other plastic wrapper,0.749228298664093
+paper_grass4.jpg,True,paper,False,False,True,True,Styrofoam piece,0.7191746830940247
+paper_grass5.jpg,True,paper,False,False,True,True,Other plastic wrapper,0.6458479762077332
+paper_grass_pavement1.jpg,True,paper,False,True,True,True,Plastic film,0.44524645805358887
+paper_grass_pavement2.jpg,True,paper,False,True,True,True,Plastic film,0.5667281746864319
+paper_grass_pavement3.jpg,True,paper,False,True,True,True,Paper cup,0.5522140860557556
+paper_grass_pavement4.jpg,True,paper,False,True,True,True,Other plastic wrapper,0.49529966711997986
+paper_grass_pavement5.jpg,True,paper,False,True,True,False,,
+paper_pavement1.jpg,True,paper,False,True,False,True,Plastic film,0.4055356979370117
+paper_pavement2.jpg,True,paper,False,True,False,True,Other plastic,0.8686768412590027
+pavement1.jpg,False,,False,True,False,False,,
+pavement2.jpg,False,,False,True,False,False,,
+pavement3.jpg,False,,False,True,False,False,,
+pavement4.jpg,False,,False,True,False,False,,
+pavement5.jpg,False,,False,True,False,False,,
+pavement_grass1.jpg,False,,False,True,True,True,Styrofoam piece,0.33253204822540283
+pavement_grass2.jpg,False,,False,True,True,False,,
+pavement_grass3.jpg,False,,False,True,True,False,,
+pavement_grass4.jpg,False,,False,True,True,False,,
+pavement_grass5.jpg,False,,False,True,True,False,,
+pavement_grass6.jpg,False,,False,True,True,False,,
+pavement_grass7.jpg,False,,False,True,True,True,Unlabeled litter,0.9600915908813477
+pavement_grass8.jpg,False,,False,True,True,True,Unlabeled litter,0.6457483172416687
+plastic_dirt_pavement1.jpg,True,plastic,True,True,False,False,,
+plastic_dirt_pavement2.jpg,True,plastic,True,True,False,False,,
