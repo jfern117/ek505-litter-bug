@@ -1,0 +1,2803 @@
+C:\Users\Demetrios\AppData\Local\Programs\Python\Python311\python.exe C:\Users\Demetrios\Downloads\pomdp-py-master\pomdp-py-master\pomdp_problems\Litterbug_mos\problem.py 
+pygame 2.5.2 (SDL 2.28.3, Python 3.11.4)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Node:  0
+Litterbug initial probbel:  11  vs probtrue  19
+Node:  1
+Litterbug initial probbel:  17  vs probtrue  27
+Node:  2
+Litterbug initial probbel:  10  vs probtrue  22
+Node:  3
+Litterbug initial probbel:  10  vs probtrue  14
+Trash made per cycle = probtrue + [-1,0,1]
+<pomdp_problems.multi_object_search.agent.belief.MosOOBelief object at 0x000001DCAF782F10>
+Litterbug believes  1  has  18 trash vs cleaned  28 trash
+Litterbug believes  1  produces  17 trash vs true 27 trash produced
+Litterbug updates probability belief from  17  to  22.5
+Litterbug Beliefs versus Truth
+Node  0
+Believed  22 trash vs actual trash  42
+Believed  11 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  22.5 trash_Prob vs true_Prob  27
+Node  2
+Believed  22 trash vs actual trash  45
+Believed  10 trash_Prob vs true_Prob  22
+Node  3
+Believed  23 trash vs actual trash  32
+Believed  10 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  23 trash vs cleaned  32 trash
+Litterbug believes  3  produces  10 trash vs true 14 trash produced
+Litterbug updates probability belief from  10  to  13.0
+Litterbug Beliefs versus Truth
+Node  0
+Believed  33 trash vs actual trash  60
+Believed  11 trash_Prob vs true_Prob  19
+Node  1
+Believed  22.5 trash vs actual trash  26
+Believed  22.5 trash_Prob vs true_Prob  27
+Node  2
+Believed  32 trash vs actual trash  67
+Believed  10 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.0 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  33 trash vs cleaned  60 trash
+Litterbug believes  0  produces  11 trash vs true 19 trash produced
+Litterbug updates probability belief from  11  to  15.5
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  15.5 trash_Prob vs true_Prob  19
+Node  1
+Believed  45.0 trash vs actual trash  52
+Believed  22.5 trash_Prob vs true_Prob  27
+Node  2
+Believed  42 trash vs actual trash  89
+Believed  10 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.0 trash vs actual trash  14
+Believed  13.0 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  45.0 trash vs cleaned  52 trash
+Litterbug believes  1  produces  22.5 trash vs true 27 trash produced
+Litterbug updates probability belief from  22.5  to  24.25
+Litterbug Beliefs versus Truth
+Node  0
+Believed  15.5 trash vs actual trash  18
+Believed  15.5 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  24.25 trash_Prob vs true_Prob  27
+Node  2
+Believed  52 trash vs actual trash  110
+Believed  10 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.0 trash vs actual trash  28
+Believed  13.0 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  52 trash vs cleaned  110 trash
+Litterbug believes  2  produces  10 trash vs true 22 trash produced
+Litterbug updates probability belief from  10  to  16.0
+Litterbug Beliefs versus Truth
+Node  0
+Believed  31.0 trash vs actual trash  36
+Believed  15.5 trash_Prob vs true_Prob  19
+Node  1
+Believed  24.25 trash vs actual trash  26
+Believed  24.25 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  16.0 trash_Prob vs true_Prob  22
+Node  3
+Believed  39.0 trash vs actual trash  41
+Believed  13.0 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  39.0 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.0 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.0  to  13.333333333333332
+Litterbug Beliefs versus Truth
+Node  0
+Believed  46.5 trash vs actual trash  55
+Believed  15.5 trash_Prob vs true_Prob  19
+Node  1
+Believed  48.5 trash vs actual trash  53
+Believed  24.25 trash_Prob vs true_Prob  27
+Node  2
+Believed  16.0 trash vs actual trash  22
+Believed  16.0 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.333333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  48.5 trash vs cleaned  53 trash
+Litterbug believes  1  produces  24.25 trash vs true 27 trash produced
+Litterbug updates probability belief from  24.25  to  25.375
+Litterbug Beliefs versus Truth
+Node  0
+Believed  62.0 trash vs actual trash  73
+Believed  15.5 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  25.375 trash_Prob vs true_Prob  27
+Node  2
+Believed  32.0 trash vs actual trash  43
+Believed  16.0 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.333333333333332 trash vs actual trash  13
+Believed  13.333333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  62.0 trash vs cleaned  73 trash
+Litterbug believes  0  produces  15.5 trash vs true 19 trash produced
+Litterbug updates probability belief from  15.5  to  16.875
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  16.875 trash_Prob vs true_Prob  19
+Node  1
+Believed  25.375 trash vs actual trash  27
+Believed  25.375 trash_Prob vs true_Prob  27
+Node  2
+Believed  48.0 trash vs actual trash  65
+Believed  16.0 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.666666666666664 trash vs actual trash  26
+Believed  13.333333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  48.0 trash vs cleaned  65 trash
+Litterbug believes  2  produces  16.0 trash vs true 22 trash produced
+Litterbug updates probability belief from  16.0  to  18.833333333333336
+Litterbug Beliefs versus Truth
+Node  0
+Believed  16.875 trash vs actual trash  19
+Believed  16.875 trash_Prob vs true_Prob  19
+Node  1
+Believed  50.75 trash vs actual trash  54
+Believed  25.375 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  18.833333333333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.0 trash vs actual trash  39
+Believed  13.333333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  50.75 trash vs cleaned  54 trash
+Litterbug believes  1  produces  25.375 trash vs true 27 trash produced
+Litterbug updates probability belief from  25.375  to  26.1875
+Litterbug Beliefs versus Truth
+Node  0
+Believed  33.75 trash vs actual trash  38
+Believed  16.875 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.1875 trash_Prob vs true_Prob  27
+Node  2
+Believed  18.833333333333336 trash vs actual trash  22
+Believed  18.833333333333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  53.33333333333333 trash vs actual trash  52
+Believed  13.333333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  53.33333333333333 trash vs cleaned  52 trash
+Litterbug believes  3  produces  13.333333333333332 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.333333333333332  to  13.166666666666666
+Litterbug Beliefs versus Truth
+Node  0
+Believed  50.625 trash vs actual trash  56
+Believed  16.875 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.1875 trash vs actual trash  26
+Believed  26.1875 trash_Prob vs true_Prob  27
+Node  2
+Believed  37.66666666666667 trash vs actual trash  43
+Believed  18.833333333333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.166666666666666 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  50.625 trash vs cleaned  56 trash
+Litterbug believes  0  produces  16.875 trash vs true 19 trash produced
+Litterbug updates probability belief from  16.875  to  17.770833333333336
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  17.770833333333336 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.375 trash vs actual trash  53
+Believed  26.1875 trash_Prob vs true_Prob  27
+Node  2
+Believed  56.50000000000001 trash vs actual trash  65
+Believed  18.833333333333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.166666666666666 trash vs actual trash  14
+Believed  13.166666666666666 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  56.50000000000001 trash vs cleaned  65 trash
+Litterbug believes  2  produces  18.833333333333336 trash vs true 22 trash produced
+Litterbug updates probability belief from  18.833333333333336  to  20.25
+Litterbug Beliefs versus Truth
+Node  0
+Believed  17.770833333333336 trash vs actual trash  18
+Believed  17.770833333333336 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.5625 trash vs actual trash  79
+Believed  26.1875 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  20.25 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.333333333333332 trash vs actual trash  28
+Believed  13.166666666666666 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.5625 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.1875 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.1875  to  26.260416666666664
+Litterbug Beliefs versus Truth
+Node  0
+Believed  35.54166666666667 trash vs actual trash  36
+Believed  17.770833333333336 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.260416666666664 trash_Prob vs true_Prob  27
+Node  2
+Believed  20.25 trash vs actual trash  22
+Believed  20.25 trash_Prob vs true_Prob  22
+Node  3
+Believed  39.5 trash vs actual trash  42
+Believed  13.166666666666666 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  39.5 trash vs cleaned  42 trash
+Litterbug believes  3  produces  13.166666666666666 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.166666666666666  to  13.583333333333332
+Litterbug Beliefs versus Truth
+Node  0
+Believed  53.31250000000001 trash vs actual trash  55
+Believed  17.770833333333336 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.260416666666664 trash vs actual trash  27
+Believed  26.260416666666664 trash_Prob vs true_Prob  27
+Node  2
+Believed  40.5 trash vs actual trash  44
+Believed  20.25 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.583333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  53.31250000000001 trash vs cleaned  55 trash
+Litterbug believes  0  produces  17.770833333333336 trash vs true 19 trash produced
+Litterbug updates probability belief from  17.770833333333336  to  18.052083333333336
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.052083333333336 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.52083333333333 trash vs actual trash  53
+Believed  26.260416666666664 trash_Prob vs true_Prob  27
+Node  2
+Believed  60.75 trash vs actual trash  65
+Believed  20.25 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.583333333333332 trash vs actual trash  13
+Believed  13.583333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  60.75 trash vs cleaned  65 trash
+Litterbug believes  2  produces  20.25 trash vs true 22 trash produced
+Litterbug updates probability belief from  20.25  to  20.958333333333336
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.052083333333336 trash vs actual trash  19
+Believed  18.052083333333336 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.78125 trash vs actual trash  79
+Believed  26.260416666666664 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  20.958333333333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.166666666666664 trash vs actual trash  26
+Believed  13.583333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.78125 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.260416666666664 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.260416666666664  to  26.296875
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.10416666666667 trash vs actual trash  38
+Believed  18.052083333333336 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.296875 trash_Prob vs true_Prob  27
+Node  2
+Believed  20.958333333333336 trash vs actual trash  22
+Believed  20.958333333333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.75 trash vs actual trash  40
+Believed  13.583333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.75 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.583333333333332 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.583333333333332  to  13.458333333333332
+Litterbug Beliefs versus Truth
+Node  0
+Believed  54.15625000000001 trash vs actual trash  57
+Believed  18.052083333333336 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.296875 trash vs actual trash  27
+Believed  26.296875 trash_Prob vs true_Prob  27
+Node  2
+Believed  41.91666666666667 trash vs actual trash  43
+Believed  20.958333333333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.458333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  54.15625000000001 trash vs cleaned  57 trash
+Litterbug believes  0  produces  18.052083333333336 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.052083333333336  to  18.526041666666668
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.526041666666668 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.59375 trash vs actual trash  54
+Believed  26.296875 trash_Prob vs true_Prob  27
+Node  2
+Believed  62.87500000000001 trash vs actual trash  65
+Believed  20.958333333333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.458333333333332 trash vs actual trash  14
+Believed  13.458333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  62.87500000000001 trash vs cleaned  65 trash
+Litterbug believes  2  produces  20.958333333333336 trash vs true 22 trash produced
+Litterbug updates probability belief from  20.958333333333336  to  21.3125
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.526041666666668 trash vs actual trash  18
+Believed  18.526041666666668 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.890625 trash vs actual trash  81
+Believed  26.296875 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.3125 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.916666666666664 trash vs actual trash  27
+Believed  13.458333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.890625 trash vs cleaned  81 trash
+Litterbug believes  1  produces  26.296875 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.296875  to  26.6484375
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.052083333333336 trash vs actual trash  36
+Believed  18.526041666666668 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.6484375 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.3125 trash vs actual trash  21
+Believed  21.3125 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.375 trash vs actual trash  40
+Believed  13.458333333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.375 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.458333333333332 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.458333333333332  to  13.395833333333332
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.578125 trash vs actual trash  55
+Believed  18.526041666666668 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.6484375 trash vs actual trash  27
+Believed  26.6484375 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.625 trash vs actual trash  43
+Believed  21.3125 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.395833333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.578125 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.526041666666668 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.526041666666668  to  18.4296875
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.4296875 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.296875 trash vs actual trash  53
+Believed  26.6484375 trash_Prob vs true_Prob  27
+Node  2
+Believed  63.9375 trash vs actual trash  64
+Believed  21.3125 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.395833333333332 trash vs actual trash  13
+Believed  13.395833333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  63.9375 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.3125 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.3125  to  21.322916666666664
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.4296875 trash vs actual trash  18
+Believed  18.4296875 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.9453125 trash vs actual trash  79
+Believed  26.6484375 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.322916666666664 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.791666666666664 trash vs actual trash  27
+Believed  13.395833333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.9453125 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.6484375 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.6484375  to  26.490885416666664
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.859375 trash vs actual trash  36
+Believed  18.4296875 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.490885416666664 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.322916666666664 trash vs actual trash  21
+Believed  21.322916666666664 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.1875 trash vs actual trash  41
+Believed  13.395833333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.1875 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.395833333333332 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.395833333333332  to  13.53125
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.2890625 trash vs actual trash  54
+Believed  18.4296875 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.490885416666664 trash vs actual trash  26
+Believed  26.490885416666664 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.64583333333333 trash vs actual trash  42
+Believed  21.322916666666664 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.53125 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.2890625 trash vs cleaned  54 trash
+Litterbug believes  0  produces  18.4296875 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.4296875  to  18.21484375
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.21484375 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.98177083333333 trash vs actual trash  52
+Believed  26.490885416666664 trash_Prob vs true_Prob  27
+Node  2
+Believed  63.96874999999999 trash vs actual trash  64
+Believed  21.322916666666664 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.53125 trash vs actual trash  14
+Believed  13.53125 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  63.96874999999999 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.322916666666664 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.322916666666664  to  21.328125
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.21484375 trash vs actual trash  18
+Believed  18.21484375 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.47265625 trash vs actual trash  79
+Believed  26.490885416666664 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.328125 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.0625 trash vs actual trash  28
+Believed  13.53125 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.47265625 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.490885416666664 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.490885416666664  to  26.412109375
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.4296875 trash vs actual trash  36
+Believed  18.21484375 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.412109375 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.328125 trash vs actual trash  22
+Believed  21.328125 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.59375 trash vs actual trash  41
+Believed  13.53125 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.59375 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.53125 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.53125  to  13.598958333333332
+Litterbug Beliefs versus Truth
+Node  0
+Believed  54.64453125 trash vs actual trash  54
+Believed  18.21484375 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.412109375 trash vs actual trash  26
+Believed  26.412109375 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.65625 trash vs actual trash  43
+Believed  21.328125 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.598958333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  54.64453125 trash vs cleaned  54 trash
+Litterbug believes  0  produces  18.21484375 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.21484375  to  18.107421875
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.107421875 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.82421875 trash vs actual trash  52
+Believed  26.412109375 trash_Prob vs true_Prob  27
+Node  2
+Believed  63.984375 trash vs actual trash  65
+Believed  21.328125 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.598958333333332 trash vs actual trash  14
+Believed  13.598958333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  63.984375 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.328125 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.328125  to  21.497395833333336
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.107421875 trash vs actual trash  19
+Believed  18.107421875 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.236328125 trash vs actual trash  78
+Believed  26.412109375 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.497395833333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.197916666666664 trash vs actual trash  27
+Believed  13.598958333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.236328125 trash vs cleaned  78 trash
+Litterbug believes  1  produces  26.412109375 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.412109375  to  26.2060546875
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.21484375 trash vs actual trash  38
+Believed  18.107421875 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.2060546875 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.497395833333336 trash vs actual trash  21
+Believed  21.497395833333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.796875 trash vs actual trash  40
+Believed  13.598958333333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.796875 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.598958333333332 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.598958333333332  to  13.466145833333332
+Litterbug Beliefs versus Truth
+Node  0
+Believed  54.322265625 trash vs actual trash  57
+Believed  18.107421875 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.2060546875 trash vs actual trash  26
+Believed  26.2060546875 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.99479166666667 trash vs actual trash  43
+Believed  21.497395833333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.466145833333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  54.322265625 trash vs cleaned  57 trash
+Litterbug believes  0  produces  18.107421875 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.107421875  to  18.5537109375
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.5537109375 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.412109375 trash vs actual trash  53
+Believed  26.2060546875 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.4921875 trash vs actual trash  65
+Believed  21.497395833333336 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.466145833333332 trash vs actual trash  13
+Believed  13.466145833333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.4921875 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.497395833333336 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.497395833333336  to  21.58203125
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.5537109375 trash vs actual trash  18
+Believed  18.5537109375 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.6181640625 trash vs actual trash  79
+Believed  26.2060546875 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.58203125 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.932291666666664 trash vs actual trash  27
+Believed  13.466145833333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.6181640625 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.2060546875 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.2060546875  to  26.269694010416664
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.107421875 trash vs actual trash  37
+Believed  18.5537109375 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.269694010416664 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.58203125 trash vs actual trash  21
+Believed  21.58203125 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.3984375 trash vs actual trash  41
+Believed  13.466145833333332 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.3984375 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.466145833333332 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.466145833333332  to  13.56640625
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.6611328125 trash vs actual trash  56
+Believed  18.5537109375 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.269694010416664 trash vs actual trash  26
+Believed  26.269694010416664 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.1640625 trash vs actual trash  42
+Believed  21.58203125 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.56640625 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.6611328125 trash vs cleaned  56 trash
+Litterbug believes  0  produces  18.5537109375 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.5537109375  to  18.610188802083336
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.610188802083336 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.53938802083333 trash vs actual trash  52
+Believed  26.269694010416664 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.74609375 trash vs actual trash  64
+Believed  21.58203125 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.56640625 trash vs actual trash  14
+Believed  13.56640625 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.74609375 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.58203125 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.58203125  to  21.457682291666664
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.610188802083336 trash vs actual trash  18
+Believed  18.610188802083336 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.80908203125 trash vs actual trash  78
+Believed  26.269694010416664 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.457682291666664 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.1328125 trash vs actual trash  28
+Believed  13.56640625 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.80908203125 trash vs cleaned  78 trash
+Litterbug believes  1  produces  26.269694010416664 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.269694010416664  to  26.134847005208332
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.22037760416667 trash vs actual trash  36
+Believed  18.610188802083336 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.134847005208332 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.457682291666664 trash vs actual trash  21
+Believed  21.457682291666664 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.69921875 trash vs actual trash  42
+Believed  13.56640625 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.69921875 trash vs cleaned  42 trash
+Litterbug believes  3  produces  13.56640625 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.56640625  to  13.783203125
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.83056640625001 trash vs actual trash  54
+Believed  18.610188802083336 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.134847005208332 trash vs actual trash  27
+Believed  26.134847005208332 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.91536458333333 trash vs actual trash  43
+Believed  21.457682291666664 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.783203125 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.83056640625001 trash vs cleaned  54 trash
+Litterbug believes  0  produces  18.610188802083336 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.610188802083336  to  18.305094401041668
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.305094401041668 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.269694010416664 trash vs actual trash  53
+Believed  26.134847005208332 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.373046875 trash vs actual trash  64
+Believed  21.457682291666664 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.783203125 trash vs actual trash  14
+Believed  13.783203125 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.373046875 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.457682291666664 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.457682291666664  to  21.3955078125
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.305094401041668 trash vs actual trash  18
+Believed  18.305094401041668 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.404541015625 trash vs actual trash  79
+Believed  26.134847005208332 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.3955078125 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.56640625 trash vs actual trash  27
+Believed  13.783203125 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.404541015625 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.134847005208332 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.134847005208332  to  26.234090169270832
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.610188802083336 trash vs actual trash  36
+Believed  18.305094401041668 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.234090169270832 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.3955078125 trash vs actual trash  22
+Believed  21.3955078125 trash_Prob vs true_Prob  22
+Node  3
+Believed  41.349609375 trash vs actual trash  40
+Believed  13.783203125 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  41.349609375 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.783203125 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.783203125  to  13.558268229166668
+Litterbug Beliefs versus Truth
+Node  0
+Believed  54.915283203125 trash vs actual trash  54
+Believed  18.305094401041668 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.234090169270832 trash vs actual trash  27
+Believed  26.234090169270832 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.791015625 trash vs actual trash  43
+Believed  21.3955078125 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.558268229166668 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  54.915283203125 trash vs cleaned  54 trash
+Litterbug believes  0  produces  18.305094401041668 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.305094401041668  to  18.152547200520836
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.152547200520836 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.468180338541664 trash vs actual trash  54
+Believed  26.234090169270832 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.1865234375 trash vs actual trash  65
+Believed  21.3955078125 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.558268229166668 trash vs actual trash  13
+Believed  13.558268229166668 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.1865234375 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.3955078125 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.3955078125  to  21.531087239583336
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.152547200520836 trash vs actual trash  19
+Believed  18.152547200520836 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.7022705078125 trash vs actual trash  81
+Believed  26.234090169270832 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.531087239583336 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.116536458333336 trash vs actual trash  26
+Believed  13.558268229166668 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.7022705078125 trash vs cleaned  81 trash
+Litterbug believes  1  produces  26.234090169270832 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.234090169270832  to  26.617045084635414
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.30509440104167 trash vs actual trash  38
+Believed  18.152547200520836 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.617045084635414 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.531087239583336 trash vs actual trash  21
+Believed  21.531087239583336 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.6748046875 trash vs actual trash  39
+Believed  13.558268229166668 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.6748046875 trash vs cleaned  39 trash
+Litterbug believes  3  produces  13.558268229166668 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.558268229166668  to  13.279134114583334
+Litterbug Beliefs versus Truth
+Node  0
+Believed  54.45764160156251 trash vs actual trash  57
+Believed  18.152547200520836 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.617045084635414 trash vs actual trash  26
+Believed  26.617045084635414 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.06217447916667 trash vs actual trash  43
+Believed  21.531087239583336 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.279134114583334 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  54.45764160156251 trash vs cleaned  57 trash
+Litterbug believes  0  produces  18.152547200520836 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.152547200520836  to  18.576273600260418
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.576273600260418 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.23409016927083 trash vs actual trash  53
+Believed  26.617045084635414 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.59326171875 trash vs actual trash  64
+Believed  21.531087239583336 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.279134114583334 trash vs actual trash  13
+Believed  13.279134114583334 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.59326171875 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.531087239583336 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.531087239583336  to  21.432210286458336
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.576273600260418 trash vs actual trash  19
+Believed  18.576273600260418 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.85113525390625 trash vs actual trash  80
+Believed  26.617045084635414 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.432210286458336 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.558268229166668 trash vs actual trash  27
+Believed  13.279134114583334 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.85113525390625 trash vs cleaned  80 trash
+Litterbug believes  1  produces  26.617045084635414 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.617045084635414  to  26.64185587565104
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.152547200520836 trash vs actual trash  37
+Believed  18.576273600260418 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.64185587565104 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.432210286458336 trash vs actual trash  21
+Believed  21.432210286458336 trash_Prob vs true_Prob  22
+Node  3
+Believed  39.83740234375 trash vs actual trash  41
+Believed  13.279134114583334 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  39.83740234375 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.279134114583334 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.279134114583334  to  13.472900390625
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.72882080078125 trash vs actual trash  56
+Believed  18.576273600260418 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.64185587565104 trash vs actual trash  26
+Believed  26.64185587565104 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.86442057291667 trash vs actual trash  43
+Believed  21.432210286458336 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.472900390625 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.72882080078125 trash vs cleaned  56 trash
+Litterbug believes  0  produces  18.576273600260418 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.576273600260418  to  18.621470133463543
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.621470133463543 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.28371175130208 trash vs actual trash  52
+Believed  26.64185587565104 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.296630859375 trash vs actual trash  65
+Believed  21.432210286458336 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.472900390625 trash vs actual trash  14
+Believed  13.472900390625 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.296630859375 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.432210286458336 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.432210286458336  to  21.5494384765625
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.621470133463543 trash vs actual trash  19
+Believed  18.621470133463543 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.92556762695312 trash vs actual trash  79
+Believed  26.64185587565104 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.5494384765625 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.94580078125 trash vs actual trash  27
+Believed  13.472900390625 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.92556762695312 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.64185587565104 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.64185587565104  to  26.487594604492188
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.242940266927086 trash vs actual trash  38
+Believed  18.621470133463543 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.487594604492188 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.5494384765625 trash vs actual trash  22
+Believed  21.5494384765625 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.418701171875 trash vs actual trash  40
+Believed  13.472900390625 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.418701171875 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.472900390625 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.472900390625  to  13.403116861979168
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.864410400390625 trash vs actual trash  57
+Believed  18.621470133463543 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.487594604492188 trash vs actual trash  27
+Believed  26.487594604492188 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.098876953125 trash vs actual trash  43
+Believed  21.5494384765625 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.403116861979168 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.864410400390625 trash vs cleaned  57 trash
+Litterbug believes  0  produces  18.621470133463543 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.621470133463543  to  18.810735066731773
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.810735066731773 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.975189208984375 trash vs actual trash  54
+Believed  26.487594604492188 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.6483154296875 trash vs actual trash  65
+Believed  21.5494384765625 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.403116861979168 trash vs actual trash  14
+Believed  13.403116861979168 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.6483154296875 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.5494384765625 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.5494384765625  to  21.608052571614586
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.810735066731773 trash vs actual trash  19
+Believed  18.810735066731773 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.46278381347656 trash vs actual trash  80
+Believed  26.487594604492188 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.608052571614586 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.806233723958336 trash vs actual trash  28
+Believed  13.403116861979168 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.46278381347656 trash vs cleaned  80 trash
+Litterbug believes  1  produces  26.487594604492188 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.487594604492188  to  26.57713063557943
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.621470133463546 trash vs actual trash  37
+Believed  18.810735066731773 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.57713063557943 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.608052571614586 trash vs actual trash  21
+Believed  21.608052571614586 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.2093505859375 trash vs actual trash  42
+Believed  13.403116861979168 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.2093505859375 trash vs cleaned  42 trash
+Litterbug believes  3  produces  13.403116861979168 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.403116861979168  to  13.701558430989584
+Litterbug Beliefs versus Truth
+Node  0
+Believed  56.43220520019532 trash vs actual trash  55
+Believed  18.810735066731773 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.57713063557943 trash vs actual trash  26
+Believed  26.57713063557943 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.21610514322917 trash vs actual trash  42
+Believed  21.608052571614586 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.701558430989584 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  56.43220520019532 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.810735066731773 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.810735066731773  to  18.572034200032554
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.572034200032554 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.15426127115886 trash vs actual trash  52
+Believed  26.57713063557943 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.82415771484375 trash vs actual trash  63
+Believed  21.608052571614586 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.701558430989584 trash vs actual trash  14
+Believed  13.701558430989584 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.82415771484375 trash vs cleaned  63 trash
+Litterbug believes  2  produces  21.608052571614586 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.608052571614586  to  21.304026285807293
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.572034200032554 trash vs actual trash  18
+Believed  18.572034200032554 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.73139190673828 trash vs actual trash  79
+Believed  26.57713063557943 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.304026285807293 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.403116861979168 trash vs actual trash  27
+Believed  13.701558430989584 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.73139190673828 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.57713063557943 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.57713063557943  to  26.455231984456383
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.14406840006511 trash vs actual trash  37
+Believed  18.572034200032554 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.455231984456383 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.304026285807293 trash vs actual trash  22
+Believed  21.304026285807293 trash_Prob vs true_Prob  22
+Node  3
+Believed  41.10467529296875 trash vs actual trash  40
+Believed  13.701558430989584 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  41.10467529296875 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.701558430989584 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.701558430989584  to  13.517445882161459
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.71610260009766 trash vs actual trash  55
+Believed  18.572034200032554 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.455231984456383 trash vs actual trash  26
+Believed  26.455231984456383 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.608052571614586 trash vs actual trash  44
+Believed  21.304026285807293 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.517445882161459 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.71610260009766 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.572034200032554 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.572034200032554  to  18.452683766682945
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.452683766682945 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.910463968912765 trash vs actual trash  53
+Believed  26.455231984456383 trash_Prob vs true_Prob  27
+Node  2
+Believed  63.912078857421875 trash vs actual trash  65
+Believed  21.304026285807293 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.517445882161459 trash vs actual trash  14
+Believed  13.517445882161459 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  63.912078857421875 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.304026285807293 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.304026285807293  to  21.48534647623698
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.452683766682945 trash vs actual trash  19
+Believed  18.452683766682945 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.36569595336914 trash vs actual trash  80
+Believed  26.455231984456383 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.48534647623698 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.034891764322918 trash vs actual trash  28
+Believed  13.517445882161459 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.36569595336914 trash vs cleaned  80 trash
+Litterbug believes  1  produces  26.455231984456383 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.455231984456383  to  26.560949325561523
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.90536753336589 trash vs actual trash  38
+Believed  18.452683766682945 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.560949325561523 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.48534647623698 trash vs actual trash  22
+Believed  21.48534647623698 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.552337646484375 trash vs actual trash  41
+Believed  13.517445882161459 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.552337646484375 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.517445882161459 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.517445882161459  to  13.592056274414062
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.358051300048835 trash vs actual trash  57
+Believed  18.452683766682945 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.560949325561523 trash vs actual trash  27
+Believed  26.560949325561523 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.97069295247396 trash vs actual trash  43
+Believed  21.48534647623698 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.592056274414062 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.358051300048835 trash vs cleaned  57 trash
+Litterbug believes  0  produces  18.452683766682945 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.452683766682945  to  18.726341883341473
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.726341883341473 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.12189865112305 trash vs actual trash  53
+Believed  26.560949325561523 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.45603942871094 trash vs actual trash  64
+Believed  21.48534647623698 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.592056274414062 trash vs actual trash  13
+Believed  13.592056274414062 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.45603942871094 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.48534647623698 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.48534647623698  to  21.409339904785156
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.726341883341473 trash vs actual trash  19
+Believed  18.726341883341473 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.68284797668457 trash vs actual trash  79
+Believed  26.560949325561523 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.409339904785156 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.184112548828125 trash vs actual trash  26
+Believed  13.592056274414062 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.68284797668457 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.560949325561523 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.560949325561523  to  26.447141329447426
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.452683766682945 trash vs actual trash  38
+Believed  18.726341883341473 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.447141329447426 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.409339904785156 trash vs actual trash  21
+Believed  21.409339904785156 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.77616882324219 trash vs actual trash  40
+Believed  13.592056274414062 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.77616882324219 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.592056274414062 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.592056274414062  to  13.462694803873699
+Litterbug Beliefs versus Truth
+Node  0
+Believed  56.179025650024414 trash vs actual trash  57
+Believed  18.726341883341473 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.447141329447426 trash vs actual trash  27
+Believed  26.447141329447426 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.81867980957031 trash vs actual trash  43
+Believed  21.409339904785156 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.462694803873699 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  56.179025650024414 trash vs cleaned  57 trash
+Litterbug believes  0  produces  18.726341883341473 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.726341883341473  to  18.863170941670738
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.863170941670738 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.89428265889485 trash vs actual trash  53
+Believed  26.447141329447426 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.22801971435547 trash vs actual trash  64
+Believed  21.409339904785156 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.462694803873699 trash vs actual trash  13
+Believed  13.462694803873699 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.22801971435547 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.409339904785156 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.409339904785156  to  21.371336619059242
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.863170941670738 trash vs actual trash  19
+Believed  18.863170941670738 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.34142398834229 trash vs actual trash  80
+Believed  26.447141329447426 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.371336619059242 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.925389607747398 trash vs actual trash  27
+Believed  13.462694803873699 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.34142398834229 trash vs cleaned  80 trash
+Litterbug believes  1  produces  26.447141329447426 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.447141329447426  to  26.556903998057045
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.726341883341476 trash vs actual trash  38
+Believed  18.863170941670738 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.556903998057045 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.371336619059242 trash vs actual trash  21
+Believed  21.371336619059242 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.388084411621094 trash vs actual trash  40
+Believed  13.462694803873699 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.388084411621094 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.462694803873699 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.462694803873699  to  13.398014068603516
+Litterbug Beliefs versus Truth
+Node  0
+Believed  56.589512825012214 trash vs actual trash  57
+Believed  18.863170941670738 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.556903998057045 trash vs actual trash  26
+Believed  26.556903998057045 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.742673238118485 trash vs actual trash  43
+Believed  21.371336619059242 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.398014068603516 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  56.589512825012214 trash vs cleaned  57 trash
+Litterbug believes  0  produces  18.863170941670738 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.863170941670738  to  18.93158547083537
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.93158547083537 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.11380799611409 trash vs actual trash  53
+Believed  26.556903998057045 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.11400985717773 trash vs actual trash  65
+Believed  21.371336619059242 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.398014068603516 trash vs actual trash  13
+Believed  13.398014068603516 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.11400985717773 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.371336619059242 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.371336619059242  to  21.519001642862953
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.93158547083537 trash vs actual trash  19
+Believed  18.93158547083537 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.67071199417114 trash vs actual trash  79
+Believed  26.556903998057045 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.519001642862953 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.79602813720703 trash vs actual trash  26
+Believed  13.398014068603516 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.67071199417114 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.556903998057045 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.556903998057045  to  26.44511866569519
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.86317094167074 trash vs actual trash  38
+Believed  18.93158547083537 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.44511866569519 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.519001642862953 trash vs actual trash  21
+Believed  21.519001642862953 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.19404220581055 trash vs actual trash  39
+Believed  13.398014068603516 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.19404220581055 trash vs cleaned  39 trash
+Litterbug believes  3  produces  13.398014068603516 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.398014068603516  to  13.199007034301758
+Litterbug Beliefs versus Truth
+Node  0
+Believed  56.7947564125061 trash vs actual trash  56
+Believed  18.93158547083537 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.44511866569519 trash vs actual trash  26
+Believed  26.44511866569519 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.03800328572591 trash vs actual trash  42
+Believed  21.519001642862953 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.199007034301758 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  56.7947564125061 trash vs cleaned  56 trash
+Litterbug believes  0  produces  18.93158547083537 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.93158547083537  to  18.79912606875102
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.79912606875102 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.89023733139038 trash vs actual trash  52
+Believed  26.44511866569519 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.55700492858887 trash vs actual trash  63
+Believed  21.519001642862953 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.199007034301758 trash vs actual trash  13
+Believed  13.199007034301758 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.55700492858887 trash vs cleaned  63 trash
+Litterbug believes  2  produces  21.519001642862953 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.519001642862953  to  21.259500821431477
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.79912606875102 trash vs actual trash  18
+Believed  18.79912606875102 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.33535599708557 trash vs actual trash  79
+Believed  26.44511866569519 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.259500821431477 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.398014068603516 trash vs actual trash  27
+Believed  13.199007034301758 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.33535599708557 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.44511866569519 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.44511866569519  to  26.38922599951426
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.59825213750204 trash vs actual trash  36
+Believed  18.79912606875102 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.38922599951426 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.259500821431477 trash vs actual trash  22
+Believed  21.259500821431477 trash_Prob vs true_Prob  22
+Node  3
+Believed  39.59702110290527 trash vs actual trash  40
+Believed  13.199007034301758 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  39.59702110290527 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.199007034301758 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.199007034301758  to  13.266170183817547
+Litterbug Beliefs versus Truth
+Node  0
+Believed  56.39737820625305 trash vs actual trash  54
+Believed  18.79912606875102 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.38922599951426 trash vs actual trash  27
+Believed  26.38922599951426 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.51900164286295 trash vs actual trash  43
+Believed  21.259500821431477 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.266170183817547 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  56.39737820625305 trash vs cleaned  54 trash
+Litterbug believes  0  produces  18.79912606875102 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.79912606875102  to  18.39956303437551
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.39956303437551 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.77845199902852 trash vs actual trash  54
+Believed  26.38922599951426 trash_Prob vs true_Prob  27
+Node  2
+Believed  63.778502464294434 trash vs actual trash  65
+Believed  21.259500821431477 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.266170183817547 trash vs actual trash  13
+Believed  13.266170183817547 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  63.778502464294434 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.259500821431477 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.259500821431477  to  21.463083744049072
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.39956303437551 trash vs actual trash  18
+Believed  18.39956303437551 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.16767799854279 trash vs actual trash  81
+Believed  26.38922599951426 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.463083744049072 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.532340367635094 trash vs actual trash  26
+Believed  13.266170183817547 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.16767799854279 trash vs cleaned  81 trash
+Litterbug believes  1  produces  26.38922599951426 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.38922599951426  to  26.69461299975713
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.79912606875102 trash vs actual trash  36
+Believed  18.39956303437551 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.69461299975713 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.463083744049072 trash vs actual trash  22
+Believed  21.463083744049072 trash_Prob vs true_Prob  22
+Node  3
+Believed  39.79851055145264 trash vs actual trash  39
+Believed  13.266170183817547 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  39.79851055145264 trash vs cleaned  39 trash
+Litterbug believes  3  produces  13.266170183817547 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.266170183817547  to  13.133085091908773
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.19868910312653 trash vs actual trash  54
+Believed  18.39956303437551 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.69461299975713 trash vs actual trash  26
+Believed  26.69461299975713 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.926167488098145 trash vs actual trash  44
+Believed  21.463083744049072 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.133085091908773 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.19868910312653 trash vs cleaned  54 trash
+Litterbug believes  0  produces  18.39956303437551 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.39956303437551  to  18.199781517187755
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.199781517187755 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.38922599951426 trash vs actual trash  53
+Believed  26.69461299975713 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.38925123214722 trash vs actual trash  66
+Believed  21.463083744049072 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.133085091908773 trash vs actual trash  14
+Believed  13.133085091908773 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.38925123214722 trash vs cleaned  66 trash
+Litterbug believes  2  produces  21.463083744049072 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.463083744049072  to  21.731541872024536
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.199781517187755 trash vs actual trash  18
+Believed  18.199781517187755 trash_Prob vs true_Prob  19
+Node  1
+Believed  80.08383899927139 trash vs actual trash  79
+Believed  26.69461299975713 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.731541872024536 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.266170183817547 trash vs actual trash  28
+Believed  13.133085091908773 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  80.08383899927139 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.69461299975713 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.69461299975713  to  26.51397316654523
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.39956303437551 trash vs actual trash  36
+Believed  18.199781517187755 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.51397316654523 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.731541872024536 trash vs actual trash  21
+Believed  21.731541872024536 trash_Prob vs true_Prob  22
+Node  3
+Believed  39.39925527572632 trash vs actual trash  42
+Believed  13.133085091908773 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  39.39925527572632 trash vs cleaned  42 trash
+Litterbug believes  3  produces  13.133085091908773 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.133085091908773  to  13.566542545954388
+Litterbug Beliefs versus Truth
+Node  0
+Believed  54.59934455156326 trash vs actual trash  55
+Believed  18.199781517187755 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.51397316654523 trash vs actual trash  26
+Believed  26.51397316654523 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.46308374404907 trash vs actual trash  42
+Believed  21.731541872024536 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.566542545954388 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  54.59934455156326 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.199781517187755 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.199781517187755  to  18.266557425260544
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.266557425260544 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.02794633309046 trash vs actual trash  53
+Believed  26.51397316654523 trash_Prob vs true_Prob  27
+Node  2
+Believed  65.19462561607361 trash vs actual trash  63
+Believed  21.731541872024536 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.566542545954388 trash vs actual trash  13
+Believed  13.566542545954388 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  65.19462561607361 trash vs cleaned  63 trash
+Litterbug believes  2  produces  21.731541872024536 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.731541872024536  to  21.365770936012268
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.266557425260544 trash vs actual trash  19
+Believed  18.266557425260544 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.5419194996357 trash vs actual trash  80
+Believed  26.51397316654523 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.365770936012268 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.133085091908775 trash vs actual trash  27
+Believed  13.566542545954388 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.5419194996357 trash vs cleaned  80 trash
+Litterbug believes  1  produces  26.51397316654523 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.51397316654523  to  26.59031991660595
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.53311485052109 trash vs actual trash  38
+Believed  18.266557425260544 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.59031991660595 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.365770936012268 trash vs actual trash  21
+Believed  21.365770936012268 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.69962763786316 trash vs actual trash  40
+Believed  13.566542545954388 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.69962763786316 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.566542545954388 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.566542545954388  to  13.44993793964386
+Litterbug Beliefs versus Truth
+Node  0
+Believed  54.79967227578163 trash vs actual trash  56
+Believed  18.266557425260544 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.59031991660595 trash vs actual trash  26
+Believed  26.59031991660595 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.731541872024536 trash vs actual trash  43
+Believed  21.365770936012268 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.44993793964386 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  54.79967227578163 trash vs cleaned  56 trash
+Litterbug believes  0  produces  18.266557425260544 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.266557425260544  to  18.466612045963608
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.466612045963608 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.1806398332119 trash vs actual trash  52
+Believed  26.59031991660595 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.0973128080368 trash vs actual trash  64
+Believed  21.365770936012268 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.44993793964386 trash vs actual trash  14
+Believed  13.44993793964386 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.0973128080368 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.365770936012268 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.365770936012268  to  21.3495521346728
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.466612045963608 trash vs actual trash  19
+Believed  18.466612045963608 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.77095974981785 trash vs actual trash  79
+Believed  26.59031991660595 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.3495521346728 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.89987587928772 trash vs actual trash  27
+Believed  13.44993793964386 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.77095974981785 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.59031991660595 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.59031991660595  to  26.46182662496964
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.933224091927215 trash vs actual trash  38
+Believed  18.466612045963608 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.46182662496964 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.3495521346728 trash vs actual trash  21
+Believed  21.3495521346728 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.34981381893158 trash vs actual trash  41
+Believed  13.44993793964386 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.34981381893158 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.44993793964386 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.44993793964386  to  13.558302303155262
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.39983613789082 trash vs actual trash  56
+Believed  18.466612045963608 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.46182662496964 trash vs actual trash  26
+Believed  26.46182662496964 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.6991042693456 trash vs actual trash  42
+Believed  21.3495521346728 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.558302303155262 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.39983613789082 trash vs cleaned  56 trash
+Litterbug believes  0  produces  18.466612045963608 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.466612045963608  to  18.566639356315136
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.566639356315136 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.92365324993928 trash vs actual trash  53
+Believed  26.46182662496964 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.0486564040184 trash vs actual trash  63
+Believed  21.3495521346728 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.558302303155262 trash vs actual trash  14
+Believed  13.558302303155262 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.0486564040184 trash vs cleaned  63 trash
+Litterbug believes  2  produces  21.3495521346728 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.3495521346728  to  21.1747760673364
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.566639356315136 trash vs actual trash  19
+Believed  18.566639356315136 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.38547987490892 trash vs actual trash  80
+Believed  26.46182662496964 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.1747760673364 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.116604606310524 trash vs actual trash  27
+Believed  13.558302303155262 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.38547987490892 trash vs cleaned  80 trash
+Litterbug believes  1  produces  26.46182662496964 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.46182662496964  to  26.56424664581815
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.13327871263027 trash vs actual trash  37
+Believed  18.566639356315136 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.56424664581815 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.1747760673364 trash vs actual trash  21
+Believed  21.1747760673364 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.67490690946579 trash vs actual trash  40
+Believed  13.558302303155262 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.67490690946579 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.558302303155262 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.558302303155262  to  13.445817818244297
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.69991806894541 trash vs actual trash  56
+Believed  18.566639356315136 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.56424664581815 trash vs actual trash  27
+Believed  26.56424664581815 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.3495521346728 trash vs actual trash  42
+Believed  21.1747760673364 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.445817818244297 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.69991806894541 trash vs cleaned  56 trash
+Litterbug believes  0  produces  18.566639356315136 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.566639356315136  to  18.616653011490904
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.616653011490904 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.1284932916363 trash vs actual trash  54
+Believed  26.56424664581815 trash_Prob vs true_Prob  27
+Node  2
+Believed  63.5243282020092 trash vs actual trash  64
+Believed  21.1747760673364 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.445817818244297 trash vs actual trash  14
+Believed  13.445817818244297 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  63.5243282020092 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.1747760673364 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.1747760673364  to  21.254054700334866
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.616653011490904 trash vs actual trash  18
+Believed  18.616653011490904 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.69273993745446 trash vs actual trash  81
+Believed  26.56424664581815 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.254054700334866 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.891635636488594 trash vs actual trash  27
+Believed  13.445817818244297 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.69273993745446 trash vs cleaned  81 trash
+Litterbug believes  1  produces  26.56424664581815 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.56424664581815  to  26.782123322909076
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.23330602298181 trash vs actual trash  37
+Believed  18.616653011490904 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.782123322909076 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.254054700334866 trash vs actual trash  22
+Believed  21.254054700334866 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.337453454732895 trash vs actual trash  40
+Believed  13.445817818244297 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.337453454732895 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.445817818244297 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.445817818244297  to  13.389575575788815
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.84995903447271 trash vs actual trash  55
+Believed  18.616653011490904 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.782123322909076 trash vs actual trash  26
+Believed  26.782123322909076 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.50810940066973 trash vs actual trash  43
+Believed  21.254054700334866 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.389575575788815 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.84995903447271 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.616653011490904 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.616653011490904  to  18.47499317241212
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.47499317241212 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.56424664581815 trash vs actual trash  53
+Believed  26.782123322909076 trash_Prob vs true_Prob  27
+Node  2
+Believed  63.7621641010046 trash vs actual trash  65
+Believed  21.254054700334866 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.389575575788815 trash vs actual trash  14
+Believed  13.389575575788815 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  63.7621641010046 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.254054700334866 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.254054700334866  to  21.460360683500767
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.47499317241212 trash vs actual trash  19
+Believed  18.47499317241212 trash_Prob vs true_Prob  19
+Node  1
+Believed  80.34636996872723 trash vs actual trash  79
+Believed  26.782123322909076 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.460360683500767 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.77915115157763 trash vs actual trash  28
+Believed  13.389575575788815 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  80.34636996872723 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.782123322909076 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.782123322909076  to  26.557728328121204
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.94998634482424 trash vs actual trash  38
+Believed  18.47499317241212 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.557728328121204 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.460360683500767 trash vs actual trash  22
+Believed  21.460360683500767 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.16872672736645 trash vs actual trash  41
+Believed  13.389575575788815 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.16872672736645 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.389575575788815 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.389575575788815  to  13.528121121227741
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.42497951723636 trash vs actual trash  56
+Believed  18.47499317241212 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.557728328121204 trash vs actual trash  26
+Believed  26.557728328121204 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.92072136700153 trash vs actual trash  44
+Believed  21.460360683500767 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.528121121227741 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.42497951723636 trash vs cleaned  56 trash
+Litterbug believes  0  produces  18.47499317241212 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.47499317241212  to  18.570829919539392
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.570829919539392 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.11545665624241 trash vs actual trash  52
+Believed  26.557728328121204 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.3810820505023 trash vs actual trash  66
+Believed  21.460360683500767 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.528121121227741 trash vs actual trash  13
+Believed  13.528121121227741 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.3810820505023 trash vs cleaned  66 trash
+Litterbug believes  2  produces  21.460360683500767 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.460360683500767  to  21.730180341750383
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.570829919539392 trash vs actual trash  18
+Believed  18.570829919539392 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.67318498436362 trash vs actual trash  78
+Believed  26.557728328121204 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.730180341750383 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.056242242455482 trash vs actual trash  26
+Believed  13.528121121227741 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.67318498436362 trash vs cleaned  78 trash
+Litterbug believes  1  produces  26.557728328121204 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.557728328121204  to  26.2788641640606
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.141659839078784 trash vs actual trash  36
+Believed  18.570829919539392 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.2788641640606 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.730180341750383 trash vs actual trash  22
+Believed  21.730180341750383 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.584363363683224 trash vs actual trash  40
+Believed  13.528121121227741 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.584363363683224 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.528121121227741 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.528121121227741  to  13.430727227280538
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.712489758618176 trash vs actual trash  55
+Believed  18.570829919539392 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.2788641640606 trash vs actual trash  27
+Believed  26.2788641640606 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.46036068350077 trash vs actual trash  43
+Believed  21.730180341750383 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.430727227280538 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.712489758618176 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.570829919539392 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.570829919539392  to  18.45208162643636
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.45208162643636 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.5577283281212 trash vs actual trash  54
+Believed  26.2788641640606 trash_Prob vs true_Prob  27
+Node  2
+Believed  65.19054102525115 trash vs actual trash  64
+Believed  21.730180341750383 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.430727227280538 trash vs actual trash  13
+Believed  13.430727227280538 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  65.19054102525115 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.730180341750383 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.730180341750383  to  21.531756837541856
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.45208162643636 trash vs actual trash  19
+Believed  18.45208162643636 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.83659249218181 trash vs actual trash  80
+Believed  26.2788641640606 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.531756837541856 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.861454454561077 trash vs actual trash  27
+Believed  13.430727227280538 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.83659249218181 trash vs cleaned  80 trash
+Litterbug believes  1  produces  26.2788641640606 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.2788641640606  to  26.472765415363632
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.90416325287272 trash vs actual trash  37
+Believed  18.45208162643636 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.472765415363632 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.531756837541856 trash vs actual trash  22
+Believed  21.531756837541856 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.29218168184161 trash vs actual trash  41
+Believed  13.430727227280538 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.29218168184161 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.430727227280538 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.430727227280538  to  13.548696946973603
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.35624487930908 trash vs actual trash  56
+Believed  18.45208162643636 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.472765415363632 trash vs actual trash  26
+Believed  26.472765415363632 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.06351367508371 trash vs actual trash  43
+Believed  21.531756837541856 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.548696946973603 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.35624487930908 trash vs cleaned  56 trash
+Litterbug believes  0  produces  18.45208162643636 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.45208162643636  to  18.559374146551512
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.559374146551512 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.945530830727265 trash vs actual trash  52
+Believed  26.472765415363632 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.59527051262558 trash vs actual trash  64
+Believed  21.531756837541856 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.548696946973603 trash vs actual trash  13
+Believed  13.548696946973603 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.59527051262558 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.531756837541856 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.531756837541856  to  21.432545085437596
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.559374146551512 trash vs actual trash  18
+Believed  18.559374146551512 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.4182962460909 trash vs actual trash  78
+Believed  26.472765415363632 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.432545085437596 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.097393893947206 trash vs actual trash  27
+Believed  13.548696946973603 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.4182962460909 trash vs cleaned  78 trash
+Litterbug believes  1  produces  26.472765415363632 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.472765415363632  to  26.236382707681816
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.118748293103025 trash vs actual trash  37
+Believed  18.559374146551512 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.236382707681816 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.432545085437596 trash vs actual trash  22
+Believed  21.432545085437596 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.646090840920806 trash vs actual trash  40
+Believed  13.548696946973603 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.646090840920806 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.548696946973603 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.548696946973603  to  13.441015140153468
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.67812243965454 trash vs actual trash  55
+Believed  18.559374146551512 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.236382707681816 trash vs actual trash  26
+Believed  26.236382707681816 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.86509017087519 trash vs actual trash  43
+Believed  21.432545085437596 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.441015140153468 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.67812243965454 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.559374146551512 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.559374146551512  to  18.446353739942424
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.446353739942424 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.47276541536363 trash vs actual trash  52
+Believed  26.236382707681816 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.29763525631279 trash vs actual trash  64
+Believed  21.432545085437596 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.441015140153468 trash vs actual trash  14
+Believed  13.441015140153468 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.29763525631279 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.432545085437596 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.432545085437596  to  21.382939209385462
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.446353739942424 trash vs actual trash  18
+Believed  18.446353739942424 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.70914812304545 trash vs actual trash  78
+Believed  26.236382707681816 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.382939209385462 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.882030280306935 trash vs actual trash  28
+Believed  13.441015140153468 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.70914812304545 trash vs cleaned  78 trash
+Litterbug believes  1  produces  26.236382707681816 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.236382707681816  to  26.118191353840906
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.89270747988485 trash vs actual trash  37
+Believed  18.446353739942424 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.118191353840906 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.382939209385462 trash vs actual trash  21
+Believed  21.382939209385462 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.3230454204604 trash vs actual trash  42
+Believed  13.441015140153468 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.3230454204604 trash vs cleaned  42 trash
+Litterbug believes  3  produces  13.441015140153468 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.441015140153468  to  13.720507570076734
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.33906121982727 trash vs actual trash  55
+Believed  18.446353739942424 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.118191353840906 trash vs actual trash  26
+Believed  26.118191353840906 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.765878418770924 trash vs actual trash  43
+Believed  21.382939209385462 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.720507570076734 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.33906121982727 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.446353739942424 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.446353739942424  to  18.389843536637876
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.389843536637876 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.23638270768181 trash vs actual trash  53
+Believed  26.118191353840906 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.1488176281564 trash vs actual trash  64
+Believed  21.382939209385462 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.720507570076734 trash vs actual trash  14
+Believed  13.720507570076734 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.1488176281564 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.382939209385462 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.382939209385462  to  21.3581362713594
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.389843536637876 trash vs actual trash  18
+Believed  18.389843536637876 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.35457406152273 trash vs actual trash  79
+Believed  26.118191353840906 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.3581362713594 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.441015140153468 trash vs actual trash  27
+Believed  13.720507570076734 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.35457406152273 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.118191353840906 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.118191353840906  to  26.22576234358712
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.77968707327575 trash vs actual trash  37
+Believed  18.389843536637876 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.22576234358712 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.3581362713594 trash vs actual trash  22
+Believed  21.3581362713594 trash_Prob vs true_Prob  22
+Node  3
+Believed  41.1615227102302 trash vs actual trash  41
+Believed  13.720507570076734 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  41.1615227102302 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.720507570076734 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.720507570076734  to  13.693587118371699
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.16953060991363 trash vs actual trash  55
+Believed  18.389843536637876 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.22576234358712 trash vs actual trash  27
+Believed  26.22576234358712 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.7162725427188 trash vs actual trash  44
+Believed  21.3581362713594 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.693587118371699 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.16953060991363 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.389843536637876 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.389843536637876  to  18.361588434985606
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.361588434985606 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.45152468717424 trash vs actual trash  54
+Believed  26.22576234358712 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.0744088140782 trash vs actual trash  66
+Believed  21.3581362713594 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.693587118371699 trash vs actual trash  14
+Believed  13.693587118371699 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.0744088140782 trash vs cleaned  66 trash
+Litterbug believes  2  produces  21.3581362713594 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.3581362713594  to  21.6790681356797
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.361588434985606 trash vs actual trash  19
+Believed  18.361588434985606 trash_Prob vs true_Prob  19
+Node  1
+Believed  78.67728703076136 trash vs actual trash  81
+Believed  26.22576234358712 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.6790681356797 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.387174236743398 trash vs actual trash  27
+Believed  13.693587118371699 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  78.67728703076136 trash vs cleaned  81 trash
+Litterbug believes  1  produces  26.22576234358712 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.22576234358712  to  26.61288117179356
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.72317686997121 trash vs actual trash  37
+Believed  18.361588434985606 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.61288117179356 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.6790681356797 trash vs actual trash  21
+Believed  21.6790681356797 trash_Prob vs true_Prob  22
+Node  3
+Believed  41.0807613551151 trash vs actual trash  41
+Believed  13.693587118371699 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  41.0807613551151 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.693587118371699 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.693587118371699  to  13.680126892519183
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.08476530495682 trash vs actual trash  55
+Believed  18.361588434985606 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.61288117179356 trash vs actual trash  26
+Believed  26.61288117179356 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.3581362713594 trash vs actual trash  43
+Believed  21.6790681356797 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.680126892519183 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.08476530495682 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.361588434985606 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.361588434985606  to  18.347460884159467
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.347460884159467 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.22576234358712 trash vs actual trash  53
+Believed  26.61288117179356 trash_Prob vs true_Prob  27
+Node  2
+Believed  65.0372044070391 trash vs actual trash  64
+Believed  21.6790681356797 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.680126892519183 trash vs actual trash  14
+Believed  13.680126892519183 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  65.0372044070391 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.6790681356797 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.6790681356797  to  21.506200734506514
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.347460884159467 trash vs actual trash  19
+Believed  18.347460884159467 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.83864351538068 trash vs actual trash  79
+Believed  26.61288117179356 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.506200734506514 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.360253785038367 trash vs actual trash  27
+Believed  13.680126892519183 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.83864351538068 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.61288117179356 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.61288117179356  to  26.473107252563445
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.694921768318935 trash vs actual trash  37
+Believed  18.347460884159467 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.473107252563445 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.506200734506514 trash vs actual trash  22
+Believed  21.506200734506514 trash_Prob vs true_Prob  22
+Node  3
+Believed  41.04038067755755 trash vs actual trash  40
+Believed  13.680126892519183 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  41.04038067755755 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.680126892519183 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.680126892519183  to  13.50673011292626
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.0423826524784 trash vs actual trash  55
+Believed  18.347460884159467 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.473107252563445 trash vs actual trash  26
+Believed  26.473107252563445 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.01240146901303 trash vs actual trash  43
+Believed  21.506200734506514 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.50673011292626 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.0423826524784 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.347460884159467 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.347460884159467  to  18.3403971087464
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.3403971087464 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.94621450512689 trash vs actual trash  52
+Believed  26.473107252563445 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.51860220351955 trash vs actual trash  64
+Believed  21.506200734506514 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.50673011292626 trash vs actual trash  13
+Believed  13.50673011292626 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.51860220351955 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.506200734506514 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.506200734506514  to  21.419767033919925
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.3403971087464 trash vs actual trash  19
+Believed  18.3403971087464 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.41932175769034 trash vs actual trash  79
+Believed  26.473107252563445 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.419767033919925 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.01346022585252 trash vs actual trash  27
+Believed  13.50673011292626 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.41932175769034 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.473107252563445 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.473107252563445  to  26.40322029294839
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.6807942174928 trash vs actual trash  38
+Believed  18.3403971087464 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.40322029294839 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.419767033919925 trash vs actual trash  21
+Believed  21.419767033919925 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.520190338778775 trash vs actual trash  40
+Believed  13.50673011292626 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.520190338778775 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.50673011292626 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.50673011292626  to  13.420031723129796
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.021191326239204 trash vs actual trash  57
+Believed  18.3403971087464 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.40322029294839 trash vs actual trash  26
+Believed  26.40322029294839 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.83953406783985 trash vs actual trash  42
+Believed  21.419767033919925 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.420031723129796 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.021191326239204 trash vs cleaned  57 trash
+Litterbug believes  0  produces  18.3403971087464 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.3403971087464  to  18.6701985543732
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.6701985543732 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.80644058589678 trash vs actual trash  52
+Believed  26.40322029294839 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.25930110175977 trash vs actual trash  64
+Believed  21.419767033919925 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.420031723129796 trash vs actual trash  14
+Believed  13.420031723129796 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.25930110175977 trash vs cleaned  64 trash
+Litterbug believes  2  produces  21.419767033919925 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.419767033919925  to  21.376550183626627
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.6701985543732 trash vs actual trash  18
+Believed  18.6701985543732 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.20966087884517 trash vs actual trash  79
+Believed  26.40322029294839 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.376550183626627 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.84006344625959 trash vs actual trash  27
+Believed  13.420031723129796 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.20966087884517 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.40322029294839 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.40322029294839  to  26.36827681314086
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.3403971087464 trash vs actual trash  36
+Believed  18.6701985543732 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.36827681314086 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.376550183626627 trash vs actual trash  22
+Believed  21.376550183626627 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.26009516938939 trash vs actual trash  40
+Believed  13.420031723129796 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.26009516938939 trash vs cleaned  40 trash
+Litterbug believes  3  produces  13.420031723129796 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.420031723129796  to  13.376682528231566
+Litterbug Beliefs versus Truth
+Node  0
+Believed  56.0105956631196 trash vs actual trash  55
+Believed  18.6701985543732 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.36827681314086 trash vs actual trash  26
+Believed  26.36827681314086 trash_Prob vs true_Prob  27
+Node  2
+Believed  42.75310036725325 trash vs actual trash  44
+Believed  21.376550183626627 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.376682528231566 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  56.0105956631196 trash vs cleaned  55 trash
+Litterbug believes  0  produces  18.6701985543732 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.6701985543732  to  18.501765943853265
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.501765943853265 trash_Prob vs true_Prob  19
+Node  1
+Believed  52.73655362628172 trash vs actual trash  53
+Believed  26.36827681314086 trash_Prob vs true_Prob  27
+Node  2
+Believed  64.12965055087989 trash vs actual trash  66
+Believed  21.376550183626627 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.376682528231566 trash vs actual trash  13
+Believed  13.376682528231566 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  64.12965055087989 trash vs cleaned  66 trash
+Litterbug believes  2  produces  21.376550183626627 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.376550183626627  to  21.688275091813313
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.501765943853265 trash vs actual trash  18
+Believed  18.501765943853265 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.10483043942259 trash vs actual trash  80
+Believed  26.36827681314086 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.688275091813313 trash_Prob vs true_Prob  22
+Node  3
+Believed  26.75336505646313 trash vs actual trash  27
+Believed  13.376682528231566 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.10483043942259 trash vs cleaned  80 trash
+Litterbug believes  1  produces  26.36827681314086 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.36827681314086  to  26.517471739903762
+Litterbug Beliefs versus Truth
+Node  0
+Believed  37.00353188770653 trash vs actual trash  36
+Believed  18.501765943853265 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.517471739903762 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.688275091813313 trash vs actual trash  21
+Believed  21.688275091813313 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.130047584694694 trash vs actual trash  41
+Believed  13.376682528231566 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.130047584694694 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.376682528231566 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.376682528231566  to  13.521674597449117
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.505297831559794 trash vs actual trash  54
+Believed  18.501765943853265 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.517471739903762 trash vs actual trash  27
+Believed  26.517471739903762 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.37655018362663 trash vs actual trash  43
+Believed  21.688275091813313 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.521674597449117 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.505297831559794 trash vs cleaned  54 trash
+Litterbug believes  0  produces  18.501765943853265 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.501765943853265  to  18.250882971926632
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.250882971926632 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.034943479807524 trash vs actual trash  54
+Believed  26.517471739903762 trash_Prob vs true_Prob  27
+Node  2
+Believed  65.06482527543994 trash vs actual trash  65
+Believed  21.688275091813313 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.521674597449117 trash vs actual trash  14
+Believed  13.521674597449117 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  65.06482527543994 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.688275091813313 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.688275091813313  to  21.67747087923999
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.250882971926632 trash vs actual trash  19
+Believed  18.250882971926632 trash_Prob vs true_Prob  19
+Node  1
+Believed  79.55241521971129 trash vs actual trash  81
+Believed  26.517471739903762 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.67747087923999 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.043349194898234 trash vs actual trash  28
+Believed  13.521674597449117 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  79.55241521971129 trash vs cleaned  81 trash
+Litterbug believes  1  produces  26.517471739903762 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.517471739903762  to  26.75873586995188
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.501765943853265 trash vs actual trash  37
+Believed  18.250882971926632 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.75873586995188 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.67747087923999 trash vs actual trash  22
+Believed  21.67747087923999 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.56502379234735 trash vs actual trash  41
+Believed  13.521674597449117 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.56502379234735 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.521674597449117 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.521674597449117  to  13.594170632057892
+Litterbug Beliefs versus Truth
+Node  0
+Believed  54.7526489157799 trash vs actual trash  56
+Believed  18.250882971926632 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.75873586995188 trash vs actual trash  27
+Believed  26.75873586995188 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.35494175847998 trash vs actual trash  44
+Believed  21.67747087923999 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.594170632057892 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  54.7526489157799 trash vs cleaned  56 trash
+Litterbug believes  0  produces  18.250882971926632 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.250882971926632  to  18.45877481929665
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.45877481929665 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.51747173990376 trash vs actual trash  53
+Believed  26.75873586995188 trash_Prob vs true_Prob  27
+Node  2
+Believed  65.03241263771997 trash vs actual trash  65
+Believed  21.67747087923999 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.594170632057892 trash vs actual trash  14
+Believed  13.594170632057892 trash_Prob vs true_Prob  14
+
+Litterbug believes  2  has  65.03241263771997 trash vs cleaned  65 trash
+Litterbug believes  2  produces  21.67747087923999 trash vs true 22 trash produced
+Litterbug updates probability belief from  21.67747087923999  to  21.67206877295333
+Litterbug Beliefs versus Truth
+Node  0
+Believed  18.45877481929665 trash vs actual trash  18
+Believed  18.45877481929665 trash_Prob vs true_Prob  19
+Node  1
+Believed  80.27620760985565 trash vs actual trash  79
+Believed  26.75873586995188 trash_Prob vs true_Prob  27
+Node  2
+Believed  0 trash vs actual trash  0
+Believed  21.67206877295333 trash_Prob vs true_Prob  22
+Node  3
+Believed  27.188341264115785 trash vs actual trash  28
+Believed  13.594170632057892 trash_Prob vs true_Prob  14
+
+Litterbug believes  1  has  80.27620760985565 trash vs cleaned  79 trash
+Litterbug believes  1  produces  26.75873586995188 trash vs true 27 trash produced
+Litterbug updates probability belief from  26.75873586995188  to  26.546034601642607
+Litterbug Beliefs versus Truth
+Node  0
+Believed  36.9175496385933 trash vs actual trash  36
+Believed  18.45877481929665 trash_Prob vs true_Prob  19
+Node  1
+Believed  0 trash vs actual trash  0
+Believed  26.546034601642607 trash_Prob vs true_Prob  27
+Node  2
+Believed  21.67206877295333 trash vs actual trash  21
+Believed  21.67206877295333 trash_Prob vs true_Prob  22
+Node  3
+Believed  40.78251189617367 trash vs actual trash  41
+Believed  13.594170632057892 trash_Prob vs true_Prob  14
+
+Litterbug believes  3  has  40.78251189617367 trash vs cleaned  41 trash
+Litterbug believes  3  produces  13.594170632057892 trash vs true 14 trash produced
+Litterbug updates probability belief from  13.594170632057892  to  13.63041864936228
+Litterbug Beliefs versus Truth
+Node  0
+Believed  55.37632445788995 trash vs actual trash  54
+Believed  18.45877481929665 trash_Prob vs true_Prob  19
+Node  1
+Believed  26.546034601642607 trash vs actual trash  26
+Believed  26.546034601642607 trash_Prob vs true_Prob  27
+Node  2
+Believed  43.34413754590666 trash vs actual trash  42
+Believed  21.67206877295333 trash_Prob vs true_Prob  22
+Node  3
+Believed  0 trash vs actual trash  0
+Believed  13.63041864936228 trash_Prob vs true_Prob  14
+
+Litterbug believes  0  has  55.37632445788995 trash vs cleaned  54 trash
+Litterbug believes  0  produces  18.45877481929665 trash vs true 19 trash produced
+Litterbug updates probability belief from  18.45877481929665  to  18.229387409648325
+Litterbug Beliefs versus Truth
+Node  0
+Believed  0 trash vs actual trash  0
+Believed  18.229387409648325 trash_Prob vs true_Prob  19
+Node  1
+Believed  53.09206920328521 trash vs actual trash  53
+Believed  26.546034601642607 trash_Prob vs true_Prob  27
+Node  2
+Believed  65.01620631885999 trash vs actual trash  63
+Believed  21.67206877295333 trash_Prob vs true_Prob  22
+Node  3
+Believed  13.63041864936228 trash vs actual trash  14
+Believed  13.63041864936228 trash_Prob vs true_Prob  14
+
+
+Process finished with exit code 0
