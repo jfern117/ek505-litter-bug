@@ -1,0 +1,3 @@
+[submodule "litter-detection"]
+	path = litter-detection
+	url = https://github.com/jeremy-rico/litter-detection.git
